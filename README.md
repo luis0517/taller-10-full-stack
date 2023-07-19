@@ -19,7 +19,7 @@
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
 <img src="./public/images/Punto_7.png" alt="Punto_7">
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
-
+<img src="./public/images/Punto_8.png" alt="Punto_8">
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
 
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
