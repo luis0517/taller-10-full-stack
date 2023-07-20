@@ -21,15 +21,15 @@
 <h2> Punto 8: Calculo de pago en Bolera con SWITCH</h2>
 <img src="./public/images/Punto_8.png" alt="Punto_8">
 <h2> Punto 9: Tabla del 0 al 30 WHILE</h2>
-
+<img src="./public/images/Punto_9.png" alt="Punto_9">
 <h2> Punto 10: Números pares del 0 al 100 WHILE</h2>
-
+<img src="./public/images/Punto_10.png" alt="Punto_10">
 <h2> Punto 11: Números pares del 0 al 100 For</h2>
-
+<img src="./public/images/Punto_11.png" alt="Punto_11">
 <h2> Punto 12: Tabla del 0 al 30 FOR</h2>
-
+<img src="./public/images/Punto_12.png" alt="Punto_12">
 <h2> Punto 13: Suma de un arreglo</h2>
-
+<img src="./public/images/Punto_13.png" alt="Punto_13">
 <h2> Punto 14: Revisión de contraseña</h2>
-
+<img src="./public/images/Punto_14.png" alt="Punto_14">
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
