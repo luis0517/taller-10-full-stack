@@ -33,3 +33,6 @@
 <h2> Punto 14: Revisión de contraseña</h2>
 <img src="./public/images/Punto_14.png" alt="Punto_14">
 <h2> Punto 15: Operaciones básicas entre 2 números con funciones</h2>
+<img src="./public/images/Punto_15.png" alt="Punto_15">
+
+<h2> FIN </h2>
